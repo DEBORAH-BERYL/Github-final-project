@@ -10,4 +10,4 @@ A calculator that calculates simple interest given the principal amount, annual 
 
 ## Output
 
-- simple interest = p*t*r
+- simple interest = `p*t*r`
